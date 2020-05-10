@@ -1,0 +1,161 @@
+.header-content{
+    align-self: center;
+}
+.list-header-active{
+    background-color: #f48024;
+    padding: 6px 16px;
+    display: block;
+    color: #ffff;
+    border-radius: 15px
+}
+.main-body{
+    width: 100%;
+    display: grid;
+    background-color: whitesmoke;
+}
+.main-content{
+    text-align: center;
+}
+.template-1{
+    /* text-align: center; */
+    padding-top: 128px;
+    padding-bottom: 128px ;
+    background-color:#ffcf10;
+    background-image: url(../stackoverflow/<3.svg);
+    background-position: top center;
+}
+
+.template-button {
+     display: flex;
+    justify-content: center;
+    padding: 12px 24px;
+    padding: 10px;
+    border-radius: 3rem;
+}
+.template-button .dev{
+    background: white;
+    border-radius: 3px;
+    color: #f48024;
+    border-color: #f48024;
+}
+.template-button .business{
+    background: #f48024;
+    border-radius: 3px;
+    color: #fff;
+    margin-left: 8px;
+    border-color: #f48024;
+}
+.template-2{
+    padding: 64px 64px;
+    background-color: #fff;
+}
+.card-content{
+    display: flex;
+    flex-flow: row nowrap;
+    font-size: 1.54rem;
+}
+.card-item{
+    border: 2px solid;
+    padding: 32px;
+    border-radius: 10px;
+}
+.template-3{
+    background-color: #f7f6f9 ;
+    padding: 128px;
+}
+.template-3-card{
+    padding: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.dev-card{
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 26px;
+    border: 4px black;
+    background-color: #fff;
+    align-items: center
+}
+.dev-card-avatar{
+    height: 4rem;
+}
+
+.template-4{
+    padding: 64px 64px;
+    color: white;
+    background-color: #2b2d6e ;
+}
+.template-5{
+    padding: 64px 64px;
+    background-color: whitesmoke ;
+}
+.template-5-cotent{
+    display: flex;
+    flex-flow: row;
+}
+.align-initial{
+    display: flex;
+    flex-flow: column;
+    text-align: initial;
+}
+.stackoverflow-talent-butn{
+    padding: 12px 24px;
+    background-color:#f48024 ;
+    color: #fff;
+}
+.template-7{
+    padding: 64px 64px;
+    background-color: #fff;
+}
+.stack-container{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+.stack-card{
+padding: 10px;
+}
+.template-8{
+    padding: 64px 64px;
+    display: flex;
+    flex-flow: column;
+    align-items: start;
+    background-color: #e1ecf4 ;
+    justify-content: center;
+    align-content: center;
+}
+.template-8-card{
+    display: flex;
+    flex-direction: row;
+     justify-content: center;
+    align-content: center;
+}
+.jobs-card-avatar{
+    height: 3rem;
+    margin-right: 15px;
+}
+.jobs-card{
+      display: flex;
+    margin: 0px 10px;
+    padding: 0px 24px;
+    flex-flow: row;
+    background-color: #fff;
+    border-radius: 6px;
+}
+.footer{
+    padding: 64px 64px;
+    display: flex;
+    flex-flow: column;
+    align-items: start;
+    background-color: #242729 ;
+    justify-content: center;
+    align-content: center;
+}
+.footer-area{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    padding: 32px 12px 12px 12px;
+    flex-flow: row wrap;
+}
