@@ -6,7 +6,7 @@ import jobChange from "./stackoverflow/career-switcher.svg"
 
 
 
-export default class Template_7 extends React.Component {
+export default class Template_6 extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
